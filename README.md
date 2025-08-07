@@ -83,4 +83,4 @@ screenshots/
 
 ## ✍️ Author
 
-- Developed by Charan Mukkamala (Entersoft Security)
+- Developed by Narendra Reddy (Entersoft Security)
